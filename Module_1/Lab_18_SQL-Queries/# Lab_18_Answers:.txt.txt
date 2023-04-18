@@ -1,0 +1,7 @@
+# Lab_18_Answers:
+# 9) Now compare the data from questions 5 and 6. What do you see?
+#    best rated by users (top 10) applications aren't free (mostly) but most rated apps(top10) are mainly free.
+#    best rated by users apps have lower rating.alter
+#    there is no social networking app in best rated by users top 10 list.
+# 11)People care about the price of app because the most rated apps are free ones. 
+#    Also non-free apps are rated less than free apps.
