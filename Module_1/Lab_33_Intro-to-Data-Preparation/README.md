@@ -37,7 +37,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 [Pandas] https://realpython.com/python-data-cleaning-numpy-pandas/
 
 
-## Aproaches
+## Approaches
 
 - Firstly, empty and shifted(the last column) have been deleted.
 - Then numeric columns min and max values were checked with describe() function. Outliers identified (Amount, Age) and deleted.
