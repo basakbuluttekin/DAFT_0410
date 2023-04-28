@@ -35,3 +35,14 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 [Pandas - data preparation] https://towardsdatascience.com/essential-commands-for-data-preparation-with-pandas-ed01579cf214
 
 [Pandas] https://realpython.com/python-data-cleaning-numpy-pandas/
+
+
+## Aproaches
+
+- Firstly, empty and shifted(the last column) have been deleted.
+- Then numeric columns min and max values were checked with describe() function. Outliers identified (Amount, Age) and deleted.
+- Null data was checked too. 
+- Data in "Profession" columns was changed with upper cases. Also french words have been changed with english ones.
+- Duplicated values were identified and removed. ClientID column was taken as a reference.
+- Age was calculated based on BirtYear and irrelevant data was removed too. 
+- The table is still not in the perfect shape but if we delete all irrelevant data, we will not have any table:).
