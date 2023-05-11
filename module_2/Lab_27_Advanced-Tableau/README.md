@@ -21,7 +21,7 @@ Questions:
 
 a. 23.50%
 
-b. 23.97%
+b. 23.97% ***
 
 c. 20.14%
 
@@ -34,12 +34,12 @@ a. Riverside Palais Royal Lawyers Bookcase
 
 b. Bush Mission Pointe Library
 
-c. Sharp AL-1530CS Digital Copier
+c. Sharp AL-1530CS Digital Copier ***
 
 d. Global Troy Executive Leather Low Back Tilter
 3. In the Technology Product Category, which unprofitable state is surrounded by only profitable states?
 
-a. Colorado
+a. Colorado ***
 
 b. Missouri
 
@@ -51,7 +51,7 @@ estimated sales for the Consumer Segment in 2014?
 
 a. $4,278,540
 
-b. $816,999
+b. $816,999 ***
 
 c. $2,752,823
 
@@ -65,7 +65,7 @@ b. Central
 
 c. East
 
-d. South
+d. South ***
 
 e. West
 
@@ -75,7 +75,7 @@ a. Tables
 
 b. Chairs & Chairmats
 
-c. Paper
+c. Paper ***
 
 d. Binders and Binder Accessories
 
@@ -87,12 +87,12 @@ b. 1%
 
 c. -17.54%
 
-d. -771.39%
+d. -771.39% ***
 
 8. Determine which State in the Central Region has the highest distribution of profits using interquartile
 ranges.
 
-a. South Dakota
+a. South Dakota ***
 
 b. North Dakota
 
@@ -107,7 +107,7 @@ a. Appliances
 
 b. Bookcases
 
-c. Envelopes
+c. Envelopes ***
 
 d. Paper
 
@@ -115,7 +115,7 @@ d. Paper
 
 a. 3.50%
 
-b. 5.03%
+b. 5.03% ***
 
 c. 17.54%
 
@@ -127,7 +127,7 @@ a. $101,752
 
 b. $180,036
 
-c. $188,552
+c. $188,552 ***
 
 d. $286,170
 
@@ -146,7 +146,7 @@ e. 10,000
 
 f. 11,000
 
-g. 18,000
+g. 18,000 ***
 
 
 ## Part 2
