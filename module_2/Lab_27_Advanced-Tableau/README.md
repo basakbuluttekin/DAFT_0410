@@ -14,7 +14,7 @@ In this lab, we will practice more in Business Intelligence in Tableau
 2. Connect the data in Tableau
 3. Answer the following questions using only Tableau. 
 4. Save each answer as a widget. 
-5. Save answer in the readme
+5. Save answer in the readme - Answers have 3 stars next to them.
 
 Questions:
 1. What is the percent of total Sales for the ‘Home Office’ Customer Segment in July of 2012?
